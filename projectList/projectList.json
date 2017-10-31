@@ -8,6 +8,13 @@
             "id" : 1523201
         },
         {
+            "title" : "Open bar",
+            "description": "Find local bars and pubs using zomato api",
+            "source" : "https://github.com/Mrprofessor/openbar",
+            "demo" : "https://mrprofessor.github.io/openbar",
+            "id" : 1523206
+        },
+        {
             "title" : "DrumKit",
             "description": "Drum kit app using vanilla javascript",
             "source" : "https://github.com/Mrprofessor/DrumKit",
