@@ -38,7 +38,7 @@
         ,
         {
             "title" : "bookstore",
-            "description": "Bookstore crud app using reactjs",
+            "description": "Bookstore crud app using react and redux",
             "source" : "https://github.com/Mrprofessor/bookstore",
             "demo" : "https://mrprofessor.github.io/bookstore/",
             "id" : 1523205
