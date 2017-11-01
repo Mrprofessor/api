@@ -1,10 +1,10 @@
 {
         "projects" : [
         {
-            "title" : "YoutubeSearchApp",
+            "title" : "tubesearch",
             "description": "Youtube video searching app(react js)",
             "source" : "https://github.com/Mrprofessor/YoutubeSearchApp",
-            "demo" : "https://tubesearch.herokuapp.com/",
+            "demo" : "https://mrprofessor.github.io/tubesearch",
             "id" : 1523201
         },
         {
@@ -12,28 +12,28 @@
             "description": "Find local bars and pubs using zomato api",
             "source" : "https://github.com/Mrprofessor/openbar",
             "demo" : "https://mrprofessor.github.io/openbar",
-            "id" : 1523206
+            "id" : 1523202
         },
         {
             "title" : "DrumKit",
             "description": "Drum kit app using vanilla javascript",
             "source" : "https://github.com/Mrprofessor/DrumKit",
             "demo" : "https://mrprofessor.github.io/DrumKit",
-            "id" : 1523202
+            "id" : 1523203
         },
         {
             "title" : "color-game",
             "description": "RGB color game using vanilla javascript",
             "source" : "https://github.com/Mrprofessor/color-game",
             "demo" : "https://mrprofessor.github.io/color-game",
-            "id" : 1523203
+            "id" : 1523204
         },
         {
             "title" : "wiki-viewer",
-            "description": "Type in and get wikipedia results.",
+            "description": "Type in and get wikipedia results (FCC).",
             "source" : "https://github.com/Mrprofessor/wiki-viewer",
             "demo" : "https://mrprofessor.github.io/wiki-viewer/",
-            "id" : 1523204
+            "id" : 1523205
         }
         ,
         {
@@ -41,7 +41,7 @@
             "description": "Bookstore crud app using react and redux",
             "source" : "https://github.com/Mrprofessor/bookstore",
             "demo" : "https://mrprofessor.github.io/bookstore/",
-            "id" : 1523205
+            "id" : 1523206
         } 
     ]
 }
